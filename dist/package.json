@@ -1,0 +1,27 @@
+{
+  "name": "@pol/hls",
+  "version": "0.0.1",
+  "description": "Hls video player wrapper",
+  "main": "lib/es6/index.js",
+  "module": "lib/es6/index.js",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bradleyevansx"
+  },
+  "files": [
+    "lib",
+    "CHANGELOG.md",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "keywords": [
+    "javascript",
+    "video",
+    "hls"
+  ],
+  "author": "Bradley Evans",
+  "license": "MIT",
+  "homepage": "https://github.com/monsterlessonsacademy/utils#readme"
+}

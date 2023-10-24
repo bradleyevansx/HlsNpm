@@ -1,0 +1,14 @@
+{
+  "name": "testSDK",
+  "version": "1.0.0",
+  "repository": "gitLink",
+  "author": "Bradley Evans",
+  "license": "MIT",
+  "scripts": {
+    "compile": "if exist dist\\lib rmdir /s /q dist\\lib && tsc"
+  },
+  "devDependencies": {
+    "@types/hls.js": "^1.0.0",
+    "typescript": "^5.2.2"
+  }
+}
